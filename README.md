@@ -18,3 +18,7 @@ https://gist.github.com/nautical/9c71e5fe2b682bee767f
 ###Minimal linux environment in IFC6410
 
 https://gist.github.com/nautical/83c1f3eac17b276a07e6
+
+###Autostart script for backend services in android
+
+https://gist.github.com/nautical/a2eba989435cbe1db555
