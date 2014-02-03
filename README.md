@@ -22,3 +22,8 @@ https://gist.github.com/nautical/83c1f3eac17b276a07e6
 ###Autostart script for backend services in android
 
 https://gist.github.com/nautical/a2eba989435cbe1db555
+
+
+###Convert Tally shoper 9 Excel sheet to json
+
+https://gist.github.com/nautical/5a44ea0917d451676aa6
